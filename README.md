@@ -1,0 +1,2 @@
+# https-github.com-marketplace-after-Y3Vyc29yOjIw-type-actions
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/04d52956278a46b893ab3321c82bf0e3)](https://app.codacy.com/manual/mosho.alt1/https-github.com-marketplace-after-Y3Vyc29yOjIw-type-actions?utm_source=github.com&utm_medium=referral&utm_content=mosho11/https-github.com-marketplace-after-Y3Vyc29yOjIw-type-actions&utm_campaign=Badge_Grade_Settings)
